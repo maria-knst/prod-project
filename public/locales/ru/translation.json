@@ -1,4 +1,7 @@
 {
   "language_but": "RU",
-  "not_found_page": "Страница не найдена"
+  "not_found_page": "Страница не найдена",
+  "unexpected_error": "Непредвиденная ошибка :P",
+  "reload_page": "Перезагрузить пейдж :)",
+  "throw_error": "Выкинь ошибку"
 }
