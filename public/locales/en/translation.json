@@ -5,5 +5,6 @@
   "about": "About",
   "unexpected_error": "Unexpected Error :P",
   "reload_page": "Reload Page",
-  "throw_error": "Throw Error"
+  "throw_error": "Throw Error",
+  "toggle": "toggle"
 }
