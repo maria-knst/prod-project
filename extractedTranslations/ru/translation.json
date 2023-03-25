@@ -1,9 +1,11 @@
 {
   "about": "about",
   "language_but": "language_but",
+  "language_full_but": "language_full_but",
   "main": "main",
   "not_found_page": "not_found_page",
   "reload_page": "reload_page",
   "throw_error": "throw_error",
+  "toggle": "toggle",
   "unexpected_error": "unexpected_error"
 }
