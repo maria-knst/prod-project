@@ -8,5 +8,7 @@
   "reload_page": "Reload Page",
   "throw_error": "Throw Error",
   "toggle": "Toggle",
-  "log_in": "Log in"
+  "log_in": "Log in",
+  "increment": "Increment",
+  "decrement": "Decrement"
 }

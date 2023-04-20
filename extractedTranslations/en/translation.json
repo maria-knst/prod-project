@@ -1,5 +1,7 @@
 {
   "about": "about",
+  "decrement": "decrement",
+  "increment": "increment",
   "language_but": "language_but",
   "language_full_but": "",
   "log_in": "log_in",
