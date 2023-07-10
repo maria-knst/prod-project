@@ -10,5 +10,7 @@
   "toggle": "Toggle",
   "log_in": "Log in",
   "increment": "Increment",
-  "decrement": "Decrement"
+  "decrement": "Decrement",
+  "enter_name": "Enter username",
+  "enter_password": "Enter password"
 }

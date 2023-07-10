@@ -1,6 +1,9 @@
 {
+  "": "",
   "about": "about",
   "decrement": "decrement",
+  "enter_name": "enter_name",
+  "enter_password": "enter_password",
   "increment": "increment",
   "language_but": "language_but",
   "language_full_but": "language_full_but",
