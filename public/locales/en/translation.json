@@ -9,8 +9,11 @@
   "throw_error": "Throw Error",
   "toggle": "Toggle",
   "log_in": "Log in",
+  "log_out": "Log out",
   "increment": "Increment",
   "decrement": "Decrement",
+  "auth_form": "Authorization form",
   "enter_name": "Enter username",
-  "enter_password": "Enter password"
+  "enter_password": "Enter password",
+  "invalid_auth": "Invalid username or password"
 }

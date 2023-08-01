@@ -9,8 +9,11 @@
   "throw_error": "Выкинь ошибку",
   "toggle": "Переключить",
   "log_in": "Войти",
+  "log_out": "Выйти",
   "increment": "Добавить",
   "decrement": "Вычесть",
+  "auth_form": "Форма авторизации",
   "enter_name": "Введите имя",
-  "enter_password": "Введите пароль"
+  "enter_password": "Введите пароль",
+  "invalid_auth": "Неверный пароль или логин"
 }
