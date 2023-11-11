@@ -25,5 +25,14 @@
       "password": "123"
     }
   ],
-  "profile": { "name": "typicode" }
+  "profile": {
+    "first": "Maria",
+    "lastname": "Knst",
+    "age": 22,
+    "currency": "BYN",
+    "country": "Belarus",
+    "city": "Minsk",
+    "username": "admin",
+    "avatar": "https://i.pinimg.com/564x/4d/84/f8/4d84f80d6c73d045d34f2252a827fecf.jpg"
+  }
 }
